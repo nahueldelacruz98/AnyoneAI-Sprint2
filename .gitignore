@@ -1,2 +1,4 @@
 dataset/
 src/__pycache__
+tests/__pycache__
+.vscode/
